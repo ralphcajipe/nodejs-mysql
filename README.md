@@ -19,7 +19,7 @@ This is a simple Node.js application that connects to a MySQL database and serve
 
 ### Configuration
 
-Update the database connection details in `index.js` to match your MySQL setup:
+Update the database connection details in `index.js` to match your MySQL setup.
 
 ### Running the Application
 
